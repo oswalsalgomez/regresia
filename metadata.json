@@ -1,0 +1,6 @@
+{
+  "name": "RegresIA – Regresión Múltiple para Negocios",
+  "description": "Plataforma en navegador para análisis completo de regresión lineal múltiple, selección automática de modelos, simulación de escenarios y exportación ejecutiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
